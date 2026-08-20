@@ -2,7 +2,7 @@ addSbtPlugin("com.github.xuwei-k" % "coherence-plugin" % "0.1.1")
 
 addSbtPlugin("com.github.xuwei-k" % "sbt-root-aggregate" % "0.1.0")
 
-addSbtPlugin("com.github.sbt" % "sbt-pgp" % "2.3.1")
+addSbtPlugin("com.github.sbt" % "sbt-pgp" % "2.3.2")
 
 addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "2.6.2")
 
